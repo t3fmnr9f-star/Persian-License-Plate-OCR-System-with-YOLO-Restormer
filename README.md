@@ -13,7 +13,7 @@ Unlike most OCR systems that perform recognition directly on raw images, this sy
 
 
 A few examples of the model's performance on Iranian license plates:
-![Demo Output](Screenshot 2025-07-26 210210.png)
+![Demo Output]([Screenshot 2025-07-26 210210.png](https://github.com/t3fmnr9f-star/Persian-License-Plate-OCR-System-with-YOLO-Restormer/blob/main/Screenshot%202025-07-26%20210210.png))
 ---
 
 ### 🔧 Technologies Used
