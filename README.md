@@ -11,6 +11,9 @@ The pipeline follows a multi-stage architecture:
 
 Unlike most OCR systems that perform recognition directly on raw images, this system first **enhances** the plate quality — resulting in significantly higher accuracy, even with blurry, angled, or low-light images.
 
+
+A few examples of the model's performance on Iranian license plates:
+![Demo Output](Screenshot 2025-07-26 210210.png)
 ---
 
 ### 🔧 Technologies Used
