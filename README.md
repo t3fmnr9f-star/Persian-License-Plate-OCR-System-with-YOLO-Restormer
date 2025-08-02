@@ -14,7 +14,7 @@ Unlike most OCR systems that perform recognition directly on raw images, this sy
 
 A few examples of the model's performance on Iranian license plates:
 <img src="Screenshot 2025-07-26 210210.png" width="600"/>
-
+<img src="Screenshot 2025-07-26 210453.png" width="600"/>
 ---
 
 ### 🔧 Technologies Used
