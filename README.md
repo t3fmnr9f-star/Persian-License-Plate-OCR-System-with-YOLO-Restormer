@@ -1,6 +1,6 @@
-# Robust License Plate OCR System with YOLO & Restormer
+# Powerful Iranian License Plate Reader System
 
-**This system works even on blurry, angled license plates.**
+**This system works even on very blurry license plates**
 
 The pipeline follows a multi-stage architecture:
 
@@ -13,18 +13,33 @@ Unlike most OCR systems that perform recognition directly on raw images, this sy
 
 
 
-A few examples of the model's performance on Iranian license plates:
+A few examples of the model's performance:
 
 <img src="Screenshot 2025-07-26 210210.png" width="600"/>
 <img src="Screenshot 2025-07-26 210453.png" width="600"/>
 ---
+
+
+
+This system, with 4 Al models together, offers much better performance than previous license plate reader systems. Because it first de-blurs the license plate and then performs OCR on it.
+This system is currently capable of being deployed in CCTV cameras across the country as the main license plate reader software.
+This system is fully usable in organizations that improve the quality of license plate images.
+
+I completed the entire process of this project, from training the models to its implementation, in about 4 months.
+What I did:
+. Creating a roadmap and choosing the right technology for this task
+. Collecting datasets and training the yolo and restormer models
+. Creating a gui
+. Final implementation, and taking steps to sell this system
+
+
 
 ### 🔧 Technologies Used
 - YOLOv11  
 - Restormer  
 - PyTorch  
 - OpenCV  
-- OCR  
+- OCR models
 - Python  
 
 ### 📌 Use Cases
