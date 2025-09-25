@@ -12,7 +12,7 @@ Below are some examples where police OCR software failed to recognize license pl
 
 <img src="Screenshot 2025-07-26 210210.png" width="600"/>
 <img src="Screenshot 2025-07-26 210453.png" width="600"/>
-----
+
 
 
 
