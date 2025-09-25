@@ -9,11 +9,13 @@ The pipeline follows a multi-stage architecture:
 3. **Restormer** for enhancing plate image quality (deblurring, denoising, low-light correction)  
 4. Custom OCR module for accurate character recognition under real-world conditions
 
-Unlike most OCR systems that perform recognition directly on raw images, this system first **enhances** the plate quality — resulting in significantly higher accuracy, even with blurry, angled, or low-light images.
 
+Unlike most systems that perform OCR directly on images,
+My system first enhances the image quality and then performs OCR with a very powerful AI model with over 95% accuracy.
+This allows it to OCR blurry, dim, and angled license plate images with very high accuracy.
+----
+Below are some examples where police OCR software failed to recognize license plates, but my system....
 
-
-A few examples of the model's performance:
 
 <img src="Screenshot 2025-07-26 210210.png" width="600"/>
 <img src="Screenshot 2025-07-26 210453.png" width="600"/>
