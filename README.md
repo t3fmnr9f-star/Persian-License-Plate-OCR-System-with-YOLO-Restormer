@@ -39,8 +39,6 @@ What I did:
 - YOLO
 - Restormer  
 - PyQt5
-- OpenCV
-- OCR models
 
 ### 📌 Use Cases
 - Traffic surveillance  
