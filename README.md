@@ -1,8 +1,8 @@
 # Powerful Iranian License Plate Reader System
 
 **license plate OCR system that works even on very blurry images (pytorch, yolo, restormer, PyQt5)**
-
-
+.
+.
 Unlike most systems that perform OCR directly on images,
 My system first enhances the image quality and then performs OCR with a very powerful AI model with over 95% accuracy.
 This allows it to OCR blurry, dim, and angled license plate images with very high accuracy.
