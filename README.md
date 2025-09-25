@@ -28,6 +28,7 @@ More details:
 
 ---
 **Technical details:**
+
 The pipeline follows a multi-stage architecture:
 
 1. **YOLOv11** for license plate detection and segmentation  
