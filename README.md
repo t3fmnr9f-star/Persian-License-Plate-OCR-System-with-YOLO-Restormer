@@ -35,12 +35,12 @@ What I did:
 
 
 ### 🔧 Technologies Used
-- YOLOv11  
+- PyTorch
+- YOLO
 - Restormer  
-- PyTorch  
-- OpenCV  
+- PyQt5
+- OpenCV
 - OCR models
-- Python  
 
 ### 📌 Use Cases
 - Traffic surveillance  
