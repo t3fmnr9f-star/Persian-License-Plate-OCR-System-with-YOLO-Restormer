@@ -17,9 +17,10 @@ This system, with 4 Al models together, offers much better performance than prev
 This system is currently capable of being deployed in CCTV cameras across the country as the main license plate reader software.
 This system is fully usable in organizations that improve the quality of license plate images.
 
-I completed the entire process of this project, from training the models to its implementation, in about 4 months:
+I have full ownership of the project: end-to-end design, implementation, and management (all in about 4 months).
+More details:
 . Creating a roadmap and choosing the right technology for this task
-. Collecting datasets and training the yolo and restormer models
+. Collecting datasets and training the YOLO and Restormer AI models
 . Creating a gui
 . Final implementation
 
