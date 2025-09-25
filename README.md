@@ -10,11 +10,12 @@ The pipeline follows a multi-stage architecture:
 4. Custom OCR module for accurate character recognition under real-world conditions
 
 
+---
+
 Unlike most systems that perform OCR directly on images,
 My system first enhances the image quality and then performs OCR with a very powerful AI model with over 95% accuracy.
 This allows it to OCR blurry, dim, and angled license plate images with very high accuracy.
 
----
 Below are some examples where police OCR software failed to recognize license plates, but my system....
 
 
