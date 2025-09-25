@@ -2,15 +2,6 @@
 
 **This system works even on very blurry license plates**
 
-The pipeline follows a multi-stage architecture:
-
-1. **YOLOv11** for license plate detection and segmentation  
-2. A robust module for precise cropping and automatic perspective correction  
-3. **Restormer** for enhancing plate image quality (deblurring, denoising, low-light correction)  
-4. Custom OCR module for accurate character recognition under real-world conditions
-
-
----
 
 Unlike most systems that perform OCR directly on images,
 My system first enhances the image quality and then performs OCR with a very powerful AI model with over 95% accuracy.
@@ -35,6 +26,18 @@ I completed the entire process of this project, from training the models to its 
 . Creating a gui
 . Final implementation
 
+
+
+---
+
+The pipeline follows a multi-stage architecture:
+
+1. **YOLOv11** for license plate detection and segmentation  
+2. A robust module for precise cropping and automatic perspective correction  
+3. **Restormer** for enhancing plate image quality (deblurring, denoising, low-light correction)  
+4. Custom OCR module for accurate character recognition under real-world conditions
+
+---
 
 
 ### 🔧 Technologies Used
